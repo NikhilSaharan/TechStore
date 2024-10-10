@@ -25,10 +25,10 @@ const home = () => {
               <div className="carousel-inner">
                   <div className='back-details'>
                   <p className='mb-3 text'>Trade in offer</p>
-                  <h1>Super Value Deals</h1>
-                  <h2>On all products</h2>
+                  <h1 style={{color:'#35bcbf'}}>Super Value Deals</h1>
+                  <h2 style={{color:'#35bcbf'}}>On all products</h2>
 
-                  <p className='mb-3'>Save more today with Maisha Infotech</p>
+                  <p className='mb-3' style={{color:'white' }}>Save more today with <span style={{fontWeight:'bolder'}}>Maisha Infotech</span> </p>
 
                   <Link to='/shop' className='btn btn-primary' id='button-link'>Shop Now</Link>
                   </div>
