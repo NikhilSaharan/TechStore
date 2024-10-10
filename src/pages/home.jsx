@@ -4,8 +4,8 @@ import { CgShoppingCart } from 'react-icons/cg'
 import { Link } from 'react-router-dom';
 import Featuredproducts from '../components/featuredproducts';
 import Newarrivals from '../components/newarrivals'
-import banner from '../assets/images/banner/b17.jpg'
-import banner1 from '../assets/images/banner/b10.jpg'
+import banner from '../assets/images/banner/b17.png'
+import banner1 from '../assets/images/banner/b10.png'
 import blog1 from '../assets/images/blog/blog-1.jpg'
 import blog2 from '../assets/images/blog/blog-2.jpg'
 import blog3 from '../assets/images/blog/blog-3.jpg'
@@ -28,7 +28,7 @@ const home = () => {
                   <h1>Super Value Deals</h1>
                   <h2>On all products</h2>
 
-                  <p className='mb-3'>Save more today with Apneck</p>
+                  <p className='mb-3'>Save more today with Maisha Infotech</p>
 
                   <Link to='/shop' className='btn btn-primary' id='button-link'>Shop Now</Link>
                   </div>
@@ -58,7 +58,7 @@ const home = () => {
       <div className="row ">
         <div className="repair-details text-center align-items-center">
           <h5 className='mb-3 text-white'>Repair Services</h5>
-          <h2 className='mb-3 text-white'>On 70% Off on All Products And Accessories</h2>
+          <h2 className='mb-3 text-white'>On 70% Off on All Gadgets And Electronic items </h2>
           <button>Explore Now</button>
         </div>
       </div>
@@ -70,7 +70,7 @@ const home = () => {
       <div className="row">
         <div className="d-flex align-items-center justify-content-center flex-column">
           <h1>New Arrivals</h1>
-          <p>Your Best Designer Outfits</p>
+          <p>Your Best Gadgets</p>
         </div>
         <Newarrivals />
       </div>
@@ -89,7 +89,7 @@ const home = () => {
                 <div className="card-body">
                   <h5 className="card-title">Hot Deals</h5>
                   <h2 className="card-text mb-2">Buy One get One free.</h2>
-                  <p className="card-text mb-2"><small className="text-body-secondary">The latest best collection in our closet <br />Feel Cute with our outfits</small></p>
+                  <p className="card-text mb-2"><small className="text-body-secondary">Elevate Your Tech Game! <br />Discover our latest collection of electronic essentials that blend style and functionality.</small></p>
                   <Link to='blog'>
                   <button className='mt-4'>Learn more</button>
                   </Link>
@@ -108,9 +108,11 @@ const home = () => {
               </div>
               <div className="col-md-8">
                 <div className="card-body">
-                  <h5 className="card-title">Season-In</h5>
-                  <h2 className="card-text mb-2">All Weather Attire</h2>
-                  <p className="card-text mb-2"><small className="text-body-secondary">It never matter which season it is <br />We got you covered</small></p>
+                  <h5 className="card-title">Tech All Year Round</h5>
+                  <h2 className="card-text mb-2">All-Weather Essentials</h2>
+                  <p className="card-text mb-2"><small className="text-body-secondary">No matter the season, stay connected and entertained. <br />We’ve got the latest gadgets to keep you powered up and in style!
+
+</small></p>
                   <Link to='blog'>
                   <button className='mt-4'>Learn more</button>
                   </Link>

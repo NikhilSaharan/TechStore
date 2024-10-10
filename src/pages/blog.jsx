@@ -55,7 +55,7 @@ const blog = () => {
                   </div>
                   <div className="col-md-6">
                     <div className="card-body">
-                      <h5 className="card-title">Melisa Ivy</h5>
+                      <h5 className="card-title">Johny Bairstow</h5>
                       <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit <br />. Doloribus maxime consequatur, ipsam architecto incidunt volup <br />tate! Iste ipsa numquam quos nam quibusdam perferendis excepturi rem, a quo laudantium libero dolore nisi.</p>
                       <p className="card-text"><small className="text-body-secondary">Last Updated now</small></p>
                     </div>
@@ -72,7 +72,7 @@ const blog = () => {
                   </div>
                   <div className="col-md-6">
                     <div className="card-body">
-                      <h5 className="card-title">Tristian Ann</h5>
+                      <h5 className="card-title">Jordan cox</h5>
                       <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit <br />. Doloribus maxime consequatur, ipsam architecto incidunt volup <br />tate! Iste ipsa numquam quos nam quibusdam perferendis excepturi rem, a quo laudantium libero dolore nisi.</p>
                       <p className="card-text"><small className="text-body-secondary">Last Updated now</small></p>
                     </div>
