@@ -28,7 +28,7 @@ const home = () => {
                   <h1 style={{color:'#35bcbf'}}>Super Value Deals</h1>
                   <h2 style={{color:'#35bcbf'}}>On all products</h2>
 
-                  <p className='mb-3' style={{color:'white' }}>Save more today with <span style={{fontWeight:'bolder'}}>Maisha Infotech</span> </p>
+                  <p className='mb-3' style={{color:'white' }}>Save more today with <span style={{fontWeight:'bolder'}}>Tech Store</span> </p>
 
                   <Link to='/shop' className='btn btn-primary' id='button-link'>Shop Now</Link>
                   </div>

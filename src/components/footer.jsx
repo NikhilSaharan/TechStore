@@ -13,13 +13,13 @@ const footer = () => {
       <div className="row justify-content-center justify-content-md-start">
         <div className="col-md-4 col-lg-4 mb-4 mb-md-0 ">
           <h2 className='footer-title mb-3'><b>Contact</b></h2>
-          <div className='mb-3'><p><b>Address:</b> Office No 710, 7th Floor, SSR Corporate Park, Sector 27B, opp. NHPC Metro Station, Ekta Nagar, Faridabad, Haryana 121003</p> </div>
-          <div className='mb-3'><p><b>Phone:</b>  <a className='footer-tel' href=""> Call us at 011 4254 7810</a></p> </div>
+          <div className='mb-3'><p><b>Address:</b> Office No 535 Faridabad 121006</p> </div>
+          <div className='mb-3'><p><b>Phone:</b>  <a className='footer-tel' href=""> Call us at 9810879698</a></p> </div>
           <div className='mb-4'><p><b>Hours:</b>  From 10 a.m To 7 p.m</p> </div>
           <div className='mb-3'><p><b>Follow the developer</b></p> </div>
           <div className="socials d-flex gap-3">
         
-          <Link to='https://twitter.com/maishainfotech' id='footer-link' target='_blank' className='gap-3'>
+          <Link to='https://x.com/NikhilK59751046' id='footer-link' target='_blank' className='gap-3'>
           <BsTwitter />
           </Link>
           <Link to={'https://github.com/NikhilSaharan'} className='gap-3' id='footer-link'>
@@ -51,7 +51,7 @@ const footer = () => {
       <hr className='my-4' />
       <div className="row">
         <div className="col-12 col-md-6">
-        <p className="text-center text-md-start">&copy;Developed by Maisha Infotech 2024</p>
+        <p className="text-center text-md-start">&copy;Developed by Tech Store 2024</p>
         </div>
         <div className="col-12 col-md-6">
         <ul className="list-inline text-center text-md-end">

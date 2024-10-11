@@ -35,7 +35,7 @@ const header = () => {
             <p className='text-black'>The trending outfits at 100% off</p>
           </div>
           <div className="col-md-2">
-          <a href="">Call us at  011 4254 7810</a>
+          <a href="">Call us at  9810879698</a>
           </div>
           <div className="col-md">
             <Link className='links fs-4'><CiMail /></Link>
